@@ -1,0 +1,6 @@
+export {default as Landing} from "./Landing"
+export {default as About} from "./About"
+export {default as CockTail} from "./CockTail"
+export {default as Newsletter} from "./Newsletter"
+export {default as Error} from "./Error"
+export {default as Homelayout} from "./Homelayout"
